@@ -20,12 +20,15 @@
 8.관리자는 회원정보관리 페이지에서 회원들의 정보를 수정 및 삭제할 수 있다.
 
 [시스템 아키텍처]
+
 ![image](https://user-images.githubusercontent.com/86394597/153145288-e98939de-9173-4863-82c4-ca35a8dabbb5.png)
 
 [DB ERD]
+
 ![image](https://user-images.githubusercontent.com/86394597/153145437-11a9f162-f46a-44d9-887e-2053f99294b5.png)
 
 [일부 실행 화면]
+
 ![image](https://user-images.githubusercontent.com/86394597/153145594-c6808a4c-0199-41b3-84ff-4f91fe8d08c2.png)
 ![image](https://user-images.githubusercontent.com/86394597/153145605-e2ab902a-dd70-46f4-95c4-f85ccf25cbd0.png)
 ![image](https://user-images.githubusercontent.com/86394597/153145610-4f887907-247e-40f0-a637-c9c0f73d620d.png)
