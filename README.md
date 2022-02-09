@@ -37,14 +37,23 @@
 
 [자세한 포트폴리오 블로그로 이동]
 
-https://blog.naver.com/tkddjsdl33/222241421071
-https://blog.naver.com/tkddjsdl33/222241431613
-https://blog.naver.com/tkddjsdl33/222101394081
-https://blog.naver.com/tkddjsdl33/222241435105
-https://blog.naver.com/tkddjsdl33/222241481869
-https://blog.naver.com/tkddjsdl33/222241488296
-https://blog.naver.com/tkddjsdl33/222241491916
-https://blog.naver.com/tkddjsdl33/222241497046
-https://blog.naver.com/tkddjsdl33/222241505304
-https://blog.naver.com/tkddjsdl33/222241605474 (최종)
+https://blog.naver.com/tkddjsdl33/222241421071 (프로젝트 설계 개요)
+
+https://blog.naver.com/tkddjsdl33/222241431613 (시스템 아키텍처 설계)
+
+https://blog.naver.com/tkddjsdl33/222101394081 (ER-win DB설계-MySQL)
+
+https://blog.naver.com/tkddjsdl33/222241435105 (회원관리 순서도)
+
+https://blog.naver.com/tkddjsdl33/222241481869 (클래스 설계)
+
+https://blog.naver.com/tkddjsdl33/222241488296 (데이터베이스 생성)
+
+https://blog.naver.com/tkddjsdl33/222241491916 (GUI 설계)
+
+https://blog.naver.com/tkddjsdl33/222241497046 (개발 일정 수정)
+
+https://blog.naver.com/tkddjsdl33/222241505304 (개발 중간 결산)
+
+https://blog.naver.com/tkddjsdl33/222241605474 (개발 최종)
 
