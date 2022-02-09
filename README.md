@@ -1,4 +1,3 @@
-# HealthClub-Membership-Management
 # HealthClub-Membership-Management System
 # 2020 JAVA Project
 
